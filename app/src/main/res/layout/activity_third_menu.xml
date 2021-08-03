@@ -8,7 +8,7 @@
     tools:context=".ThirdMenu">
     <TextView
         android:gravity="center"
-        android:text="This is second menu "
+        android:text="This is third menu "
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
